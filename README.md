@@ -55,12 +55,12 @@ This open-source library features stunning React components designed with a capt
         </tr>
      </thead>
     <tbody>
-         <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Jaishree2310/GlassyUI-Components?style=flat&logo=github"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/Jaishree2310/GlassyUI-Components?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Jaishree2310/GlassyUI-Components?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Jaishree2310/GlassyUI-Components?style=flat&logo=github"/></td>
-            <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Jaishree2310/GlassyUI-Components?style=flat&color=green&logo=github"/></td>
+         <tr>https://github.com/iharmandeepsingh/Crystal-components
+            <td><img alt="Stars" src="https://github.com/iharmandeepsingh/Crystal-components"/></td>
+            <td><img alt="Forks" src="https://github.com/iharmandeepsingh/Crystal-components"/></td>
+            <td><img alt="Issues" src="https://github.com/iharmandeepsingh/Crystal-components"/></td>
+            <td><img alt="Open Pull Requests" src="https://github.com/iharmandeepsingh/Crystal-components"/></td>
+            <td><img alt="Closed Pull Requests" src="https://github.com/iharmandeepsingh/Crystal-components"/></td>
         </tr>
     </tbody>
 </table>
@@ -105,8 +105,8 @@ Make sure you have **Node.js** and **npm** installed on your machine.
 1. **clone the repository:**
 
 ```bash
-git clone https://github.com/Jaishree2310/GlassyUI-Components.git
-cd GlassyUI-Components
+git clone https://github.com/iharmandeepsingh/Crystal-components
+cd Crystals-Components
 ```
 
 2. **Run Docker compose File:**
@@ -120,7 +120,7 @@ docker compose up
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/Jaishree2310/GlassyUI-Components.git
+git clone https://github.com/iharmandeepsingh/Crystal-components
 cd GlassyUI-Components
 ```
 
@@ -152,7 +152,7 @@ All notable changes to this project will be documented in this file.
 
 ### [1.0.0] - 2024-10-15
 
-- **Added**: Initial release of GlassyUI-Components.
+- **Added**: Initial release of Crystals-Components.
   - Features glassmorphism-themed buttons, progress bars, input fields, text areas, modals, and navigation bars.
 - **Improved**: Documentation and examples for each component.
 - **Fixed**: Minor bugs in the button component.
@@ -246,15 +246,10 @@ git push origin my-feature-branch
 
 | Contributor                                                                                                                                                  | Contributor                                                                                                                                                                | Contributor                                                                                                                                                    | Contributor                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/Jaishree2310.png" alt="Jaishree2310" width="80"/> <br> <p align="center">[Jaishree2310](https://github.com/Jaishree2310) 👩‍💻</p> | <img src="https://github.com/Sawan-Kushwah.png" alt="Sawan-Kushwah" width="80"/> <br> <p align="center">[Sawan-Kushwah](https://github.com/Sawan-Kushwah) 👨‍💻</p>           | <img src="https://github.com/Gauravtb2253.png" alt="Gauravtb2253" width="80"/> <br> <p align="center">[Gauravtb2253](https://github.com/Gauravtb2253) 👨‍💻</p>   | <img src="https://github.com/alo7lika.png" alt="Alolika" width="80"/> <br> <p align="center">[Alolika](https://github.com/alo7lika) 👩‍💻</p>                   |
-| <img src="https://github.com/hritika2409.png" alt="Hritika" width="80"/> <br> <p align="center">[Hritika](https://github.com/hritika2409) 👩‍💻</p>             | <img src="https://github.com/AdityaInnovates.png" alt="Aditya Innovates" width="80"/> <br> <p align="center">[Aditya Innovates](https://github.com/AdityaInnovates) 👨‍💻</p> | <img src="https://github.com/neeru24.png" alt="Neeru" width="80"/> <br> <p align="center">[Neeru](https://github.com/neeru24) 👩‍💻</p>                           | <img src="https://github.com/haseebzaki-07.png" alt="Haseeb Zaki" width="80"/> <br> <p align="center">[Haseeb Zaki](https://github.com/haseebzaki-07) 👨‍💻</p> |
-| <img src="https://github.com/gurliv21.png" alt="Gurliv" width="80"/> <br> <p align="center">[Gurliv](https://github.com/gurliv21) 👩‍💻</p>                     | <img src="https://github.com/abhishekHegde2000.png" alt="Abhishek Hegde" width="80"/> <br> <p align="center">[Abhishek Hegde](https://github.com/abhishekHegde2000) 👨‍💻</p> | <img src="https://github.com/NazTM.png" alt="Naz" width="80"/> <br> <p align="center">[Naz](https://github.com/NazTM) 👩‍💻</p>                                   | <img src="https://github.com/kodeCraze.png" alt="Kode Craze" width="80"/> <br> <p align="center">[Kode Craze](https://github.com/kodeCraze) 👨‍💻</p>           |
-| <img src="https://github.com/masabinhok.png" alt="Masabin" width="80"/> <br> <p align="center">[Masabin](https://github.com/masabinhok) 👩‍💻</p>               | <img src="https://github.com/Ameerjafar.png" alt="Ameer Jafar" width="80"/> <br> <p align="center">[Ameer Jafar](https://github.com/Ameerjafar) 👨‍💻</p>                     | <img src="https://github.com/devxMani.png" alt="Devx Mani" width="80"/> <br> <p align="center">[Devx Mani](https://github.com/devxMani) 👨‍💻</p>                 | <img src="https://github.com/ashish-um.png" alt="Ashish" width="80"/> <br> <p align="center">[Ashish](https://github.com/ashish-um) 👨‍💻</p>                   |
-| <img src="https://github.com/VAmanjain.png" alt="Va Manjain" width="80"/> <br> <p align="center">[Va Manjain](https://github.com/VAmanjain) 👩‍💻</p>           | <img src="https://github.com/lakshmirajvagu.png" alt="Lakshmi Rajvagu" width="80"/> <br> <p align="center">[Lakshmi Rajvagu](https://github.com/lakshmirajvagu) 👩‍💻</p>     | <img src="https://github.com/knighthinata.png" alt="Knight Hinata" width="80"/> <br> <p align="center">[Knight Hinata](https://github.com/knighthinata) 👨‍💻</p> | <img src="https://github.com/ADeshmukh80.png" alt="ADeshmukh" width="80"/> <br> <p align="center">[ADeshmukh](https://github.com/ADeshmukh80) 👨‍💻</p>         |
-
+| <img source="">
 </div>
 
-🌟 **So many talented contributors!** 🎉 Want to meet them all? Click [here](https://github.com/Jaishree2310/GlassyUI-Components/graphs/contributors) to discover the amazing team! 👩‍💻👨‍💻
+🌟 **So many talented contributors!** 🎉 Want to meet them all? Click [here](https://github.com/iharmandeepsingh/Crystal-components) to discover the amazing team! 👩‍💻👨‍💻
 
 patch-1
 
@@ -267,14 +262,14 @@ patch-1
 
 <div align='left'>
 
-[![Stargazers repo roster for @Jaishree2310/GlassyUI-Components](https://reporoster.com/stars/dark/Jaishree2310/GlassyUI-Components)](https://github.com/Jaishree2310/GlassyUI-Components/stargazers)
+[![Stargazers repo roster for iharmandeepsingh/Crystal-components](https://reporoster.com/stars/dark/iharmandeepsingh/Crystal-component)](https://github.com/iharmandeepsingh/Crystal-component)
 
 
 </div>
 
 ## Forkers ❤️
 
-[![Forkers repo roster for @Jaishree2310/GlassyUI-Components](https://reporoster.com/forks/dark/Jaishree2310/GlassyUI-Components)](https://github.com/Jaishree2310/GlassyUI-Components/network/members)
+[![Forkers repo roster for iharmandeepsingh/Crystal-component](https://reporoster.com/forks/dark/Jaishree2310/GlassyUI-Components)](https://github.com/iharmandeepsingh/Crystal-component)
 
 
 <!--line-->
@@ -295,13 +290,13 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 <div align='left'>
 
-[![Stargazers repo roster for @Jaishree2310/GlassyUI-Components](https://reporoster.com/stars/Jaishree2310/GlassyUI-Components)](https://github.com/Jaishree2310/GlassyUI-Components/stargazers)
+[![Stargazers repo roster for iharmandeepsingh/Crystal-component](https://reporoster.com/stars/Jaishree2310/GlassyUI-Components)](https://github.com/iharmandeepsingh/Crystal-component)
 
 </div>
 
 ## 💗 Forkers
 
-[![Forkers repo roster for @Jaishree2310/GlassyUI-Components](https://reporoster.com/forks/Jaishree2310/GlassyUI-Components)](https://github.com/Jaishree2310/GlassyUI-Components/network/members)
+[![Forkers repo roster foriharmandeepsingh/Crystal-component](https://reporoster.com/forks/Jaishree2310/GlassyUI-Components)](https://github.com/Jaishree2310/GlassyUI-Components/network/members)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -311,26 +306,10 @@ If you enjoy using GlassyUI-Components and find it helpful, **please give it a s
 
 ## 🌐 Contact with Me
 
-<p align="center">
-  <a href="mailto:jaishrees23102001@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="40px"/>
-  </a>
-  <a href="https://linkedin.com/in/jaishree-singh-6332a51b9">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40px"/>
-  </a>
-  <a href="https://twitter.com/Jaishre23100">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" width="40px"/>
-  </a>
-  <a href="https://github.com/Jaishree2310">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40px"/>
-  </a>
-  <a href="https://www.instagram.com/jaishree_2310/">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40px"/>
-  </a>
-</p>
+
 
 ---
 
 <p align="center">
-  Thank you for connecting with me! 💬
+  Thank you for connecting with us! 💬
 </p>
